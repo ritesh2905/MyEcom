@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "591808511473",
+    "firebase_url": "https://myecom-dfe36.firebaseio.com",
+    "project_id": "myecom-dfe36",
+    "storage_bucket": "myecom-dfe36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591808511473:android:4b518ace47aa1d79",
+        "android_client_info": {
+          "package_name": "com.example.ritz.myecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591808511473-u5fa6s4ka5f9vofcjgk030d59k3fvhl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFgDlnIUB2TYUy6SDgPrzNhYp3rdVTHaE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

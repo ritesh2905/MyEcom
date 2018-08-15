@@ -1,0 +1,43 @@
+<resources>
+
+    <!-- Strings used in multi-places -->
+    <string name="Or">OR</string>
+
+    <!-- String in Main Activity -->
+    <string name="app_name">MyEcom</string>
+    <string name="welcome">Welcome to the app please select one of the following option to continue!</string>
+    <string name="SignIn">Sign In</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="Skip">Skip for now</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_register">Sign Up</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."</string>
+
+    <!-- Strings related to Registration form -->
+    <string name="Register">Fill the form to register</string>
+    <string name="Submit">Click to submit and register</string>
+    <string name="N">Name</string>
+
+    <!-- String related to ShoppingActivity -->
+    <string name="Hope">Please be patient the catelog will be updated ASAP!!!</string>
+    <string name="Founder">Founder and CEO</string>
+    <string name="Name">Ritesh Kumar</string>
+    <string name="Moto">This is a sample product</string>
+
+    <!-- String related to ProductActivity -->
+    <string name="BuyNow">BUY NOW</string>
+    <string name="Sample">This is a sample product</string>
+    <string name="Description">This is the description to the product that is shown in the above picture here is its full description and the button below will divert you to the merchants site to purchase it.</string>
+</resources>
